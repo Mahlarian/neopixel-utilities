@@ -1,3 +1,6 @@
+# Notice of discontinuation
+This project has been unmaintained for a long time and no updates are planned for it. If you have stumbled across this in your search, please know there are much better libraries that implement features better and are still actively maintained. Thanks for your interest.
+
 # neopixel-utilities
 
 ---
